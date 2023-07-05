@@ -16,4 +16,4 @@
 
      docker-compose up
 
-   **5. Open "http://localhost:8081" in your brower and the the credentials as user = admin and password = airflow**
+   **5. Open "http://localhost:8081" in your brower and enter the credentials as user = admin and password = airflow**
